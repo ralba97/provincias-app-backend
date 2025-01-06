@@ -1,5 +1,6 @@
 # Registro Social Backend App
-
+- Consiste en un conjunto de APIs desarrollafos con la tecnología de Spring boot y java 17, emplendo buen prácticas de programación.
+- Este conjunto de APIs serán lo que van a ser llamados desde la aplicación web desarrollada con el framework angular.
 ## Requisitos:
 - Instalar java versión 17.0.12
 - Instalar gradle versión 8.12.0
